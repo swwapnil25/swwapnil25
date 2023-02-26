@@ -8,7 +8,7 @@
 
 I'm
 Full Stack Web Developer
-I am beginner to Start Web developemnet , I am studying in 3rd years in IT(Information technology) and I also Know (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX) for frontend, and I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+I am beginner to Start Web developemnet , I am studying in 3rd years in IT(Information technology) and I also Know (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX) for frontend, and I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), front-end development (React, Angular14, ReactJs, HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB,cassendra,Mysql).
 
 
 ![Visitor Count](https://profile-counter.glitch.me/swwapnil25/count.svg)
