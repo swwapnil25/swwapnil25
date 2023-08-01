@@ -8,7 +8,7 @@
 
 I'm
 Full Stack Web Developer
-I am Web developemnet , I am studying in Final years in IT(Information technology) and I also Know (React, ReactJs, HTML5, CSS3, Javascript, Responsive) for frontend, and I have a wide range of skills that include back-end development using open source technologies (NodeJs, ExpressJs), front-end development (React, ReactJs, HTML5, CSS3, Javascript,Bootstarp, Responsive), database(MongoDB).
+I am Web developer, I am studying in Final years in IT (Information technology) and I also Know (React, ReactJs, HTML5, CSS3, Javascript, Responsive) for frontend, and I have a wide range of skills that include back-end development using open source technologies (NodeJs, ExpressJs), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Bootstarp, Responsive), database(MongoDB).
 
 
 ![Visitor Count](https://profile-counter.glitch.me/swwapnil25/count.svg)
